@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# DART-sim
+.V-REP_PRO_EDU_V3_6_2_Ubuntu18_04/
